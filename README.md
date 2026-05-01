@@ -1,6 +1,6 @@
 # Data Major — Mortalidade por Causas Evitáveis no Brasil
 
-Projeto final da disciplina **Tópicos em Banco de Dados** — IESB, 2026/01.
+Projeto da disciplina **Tópicos em Banco de Dados** — IESB, 2026/01.
 
 ## Problema
 
